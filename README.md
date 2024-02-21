@@ -1,7 +1,7 @@
 thirty-days-in-space
 ====================
 
-Rust project for the _Arduino Uno_.
+Rust project for the _Arduino Uno_ used during the 30 days in space challenge.
 
 ## Build Instructions
 1. Install prerequisites as described in the [`avr-hal` README] (`avr-gcc`, `avr-libc`, `avrdude`, [`ravedude`]).
@@ -19,14 +19,6 @@ Rust project for the _Arduino Uno_.
 [`ravedude`]: https://crates.io/crates/ravedude
 
 ## License
-Licensed under either of
 
  - MIT license
    ([LICENSE-MIT](LICENSE-MIT) or <http://opensource.org/licenses/MIT>)
-
-at your option.
-
-## Contribution
-Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in the work by you, as defined in the Apache-2.0 license, shall
-be dual licensed as above, without any additional terms or conditions.
